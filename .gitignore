@@ -1,0 +1,5 @@
+/csharp/MyNativeWrapper/bin/
+/cpp/MyNativeDLL/.vs/
+/cpp/MyNativeDLL/x64
+/csharp/MyNativeWrapper/.vs/
+/csharp/MyNativeWrapper/obj/
